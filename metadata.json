@@ -1,0 +1,7 @@
+{
+  "name": "World of TEXTS",
+  "description": "A Cognitive Operating System bridging raw AI intelligence with structured human reasoning frameworks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
